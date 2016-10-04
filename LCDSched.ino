@@ -5,6 +5,8 @@ This is a very simple example on using the arkhipendo/TaskScheduler https://gith
 I assume a Branch is for major versions.
 Serial.print and println are used for debugging.
 2016 Marc Pouliot
+Note . initial master does not have comments. 
+personal note : but since I did not create a branch right away in github, this version is not available anymore.)
 */
 #include <TaskScheduler.h>  // library from https://github.com/arkhipenko/TaskScheduler
 // callback routines
